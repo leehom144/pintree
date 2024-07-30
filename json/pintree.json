@@ -298,6 +298,18 @@
                 "title": "文件加速下载",
                 "icon": "https://logo.clearbit.com/dalao.ru",
                 "url": "https://dalao.ru/g/"
+              },
+              {
+                "type": "link",
+                "title": "视频/图集下载器",
+                "icon": "https://logo.clearbit.com/tiqu.cc",
+                "url": "https://tiqu.cc/"
+              },
+              {
+                "type": "link",
+                "title": "Twitter Video Downloader ",
+                "icon": "https://logo.clearbit.com/twittervid.com",
+                "url": "https://twittervid.com/"
               }
             ]
           },
@@ -385,6 +397,12 @@
                 "title": "OKDay - Your Notes, Your Way!",
                 "icon": "https://logo.clearbit.com/www.okday.app",
                 "url": "https://www.okday.app/"
+              },
+              {
+                "type": "link",
+                "title": "ayangweb/EcoPaste",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/ayangweb/EcoPaste/blob/master/README.zh-CN.md"
               }
             ]
           },
@@ -398,6 +416,12 @@
                 "title": "报告查一查",
                 "icon": "https://logo.clearbit.com/report.seedsufe.com",
                 "url": "https://report.seedsufe.com/report?search_key=%E5%AE%B6%E5%85%B7"
+              },
+              {
+                "type": "link",
+                "title": "清烟资源库丨致力打造全网最全资源",
+                "icon": "https://logo.clearbit.com/pan.qlam.cc",
+                "url": "https://pan.qlam.cc/"
               }
             ]
           },
@@ -839,6 +863,37 @@
                 "title": "无缝图案照片",
                 "icon": "https://logo.clearbit.com/floralweb.vercel.app",
                 "url": "https://floralweb.vercel.app/"
+              },
+              {
+                "type": "link",
+                "title": "VectorCraftr - 免费可商用插画",
+                "icon": "https://logo.clearbit.com/vectorcraftr.com",
+                "url": "https://vectorcraftr.com/directory/notion"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1722329457061,
+            "title": "字体",
+            "children": [
+              {
+                "type": "link",
+                "title": "Free Font - 收录商用免费字体(汉字英文字体)",
+                "icon": "https://logo.clearbit.com/wangchujiang.com",
+                "url": "https://wangchujiang.com/free-font/"
+              },
+              {
+                "type": "link",
+                "title": "喵闪字库-提供中文字体的在线预览和免费下载",
+                "icon": "https://logo.clearbit.com/www.miao3.cn",
+                "url": "https://www.miao3.cn/"
+              },
+              {
+                "type": "link",
+                "title": "字体天下-提供各类字体的免费下载和在线预览服务",
+                "icon": "https://logo.clearbit.com/www.fonts.net.cn",
+                "url": "https://www.fonts.net.cn/"
               }
             ]
           }
@@ -859,6 +914,12 @@
                 "title": "下载并播放种子 \\ Download and play torrents",
                 "icon": "https://logo.clearbit.com/webtor.io",
                 "url": "https://webtor.io/#/"
+              },
+              {
+                "type": "link",
+                "title": "爱看机器人-ikanbot.com",
+                "icon": "https://logo.clearbit.com/v.ikanbot.com",
+                "url": "https://v.ikanbot.com/?ref=www.qssily.com"
               }
             ]
           },
@@ -890,6 +951,12 @@
                 "title": "中文播客榜",
                 "icon": "https://logo.clearbit.com/xyzrank.com",
                 "url": "https://xyzrank.com/#/"
+              },
+              {
+                "type": "link",
+                "title": "免费的 AI 音乐生成平台",
+                "icon": "https://logo.clearbit.com/iui.su",
+                "url": "https://iui.su/3676/"
               }
             ]
           },
