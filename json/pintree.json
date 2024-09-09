@@ -6,12 +6,12 @@
     "children": [
       {
         "type": "folder",
-        "addDate": 1721199740476,
+        "addDate": 1725845261361,
         "title": "线上工具",
         "children": [
           {
             "type": "folder",
-            "addDate": 1721199740476,
+            "addDate": 1725845261361,
             "title": "图片工具",
             "children": [
               {
@@ -127,12 +127,30 @@
                 "title": "AI Background Remover",
                 "icon": "https://logo.clearbit.com/html.zone",
                 "url": "https://html.zone/background-remover/"
+              },
+              {
+                "type": "link",
+                "title": "Remove Background - 0v0.ai",
+                "icon": "https://logo.clearbit.com/0v0.ai",
+                "url": "https://0v0.ai/rmbg/"
+              },
+              {
+                "type": "link",
+                "title": "miniPaint",
+                "icon": "https://logo.clearbit.com/ps.ittools.cc",
+                "url": "https://ps.ittools.cc/"
+              },
+              {
+                "type": "link",
+                "title": "图片识色,在线识别图片中的颜色",
+                "icon": "https://logo.clearbit.com/www.wenziyun.cn",
+                "url": "https://www.wenziyun.cn/yanse/tupianshise"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1721199740478,
+            "addDate": 1725845261363,
             "title": "其他工具",
             "children": [
               {
@@ -230,12 +248,24 @@
                 "title": "PDF24 Tools",
                 "icon": "https://logo.clearbit.com/tools.pdf24.org",
                 "url": "https://tools.pdf24.org/zh/"
+              },
+              {
+                "type": "link",
+                "title": "富婆图表",
+                "icon": "https://logo.clearbit.com/www.richcharts.com",
+                "url": "https://www.richcharts.com/"
+              },
+              {
+                "type": "link",
+                "title": "Azure TTS Web",
+                "icon": "https://logo.clearbit.com/tts.femoon.top",
+                "url": "https://tts.femoon.top/cn"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1721199740478,
+            "addDate": 1725845261365,
             "title": "多端同步",
             "children": [
               {
@@ -278,7 +308,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1721199740480,
+            "addDate": 1725845261365,
             "title": "下载工具",
             "children": [
               {
@@ -286,12 +316,6 @@
                 "title": "cobalt",
                 "icon": "https://logo.clearbit.com/cobalt.tools",
                 "url": "https://cobalt.tools/"
-              },
-              {
-                "type": "link",
-                "title": "小红书去水印图片视频下载",
-                "icon": "https://logo.clearbit.com/www.xhs-download.online",
-                "url": "https://www.xhs-download.online/"
               },
               {
                 "type": "link",
@@ -310,12 +334,18 @@
                 "title": "Twitter Video Downloader ",
                 "icon": "https://logo.clearbit.com/twittervid.com",
                 "url": "https://twittervid.com/"
+              },
+              {
+                "type": "link",
+                "title": "小红书去水印图片视频下载",
+                "icon": "https://logo.clearbit.com/www.xhs-download.online",
+                "url": "https://www.xhs-download.online/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1721199740480,
+            "addDate": 1725845261365,
             "title": "机场",
             "children": [
               {
@@ -360,12 +390,12 @@
       },
       {
         "type": "folder",
-        "addDate": 1721199740481,
+        "addDate": 1725845261366,
         "title": "聚合导航",
         "children": [
           {
             "type": "folder",
-            "addDate": 1721199740481,
+            "addDate": 1725845261366,
             "title": "好软收集",
             "children": [
               {
@@ -403,12 +433,24 @@
                 "title": "ayangweb/EcoPaste",
                 "icon": "https://logo.clearbit.com/github.com",
                 "url": "https://github.com/ayangweb/EcoPaste/blob/master/README.zh-CN.md"
+              },
+              {
+                "type": "link",
+                "title": "免费开源 离线&内置AI抠图",
+                "icon": "https://logo.clearbit.com/matting.20133075.xyz",
+                "url": "https://matting.20133075.xyz/"
+              },
+              {
+                "type": "link",
+                "title": "ZYPlayer 开源影视播放器",
+                "icon": "https://logo.clearbit.com/iui.su",
+                "url": "https://iui.su/3384/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1721199740481,
+            "addDate": 1725845261367,
             "title": "资源检索",
             "children": [
               {
@@ -422,12 +464,18 @@
                 "title": "清烟资源库丨致力打造全网最全资源",
                 "icon": "https://logo.clearbit.com/pan.qlam.cc",
                 "url": "https://pan.qlam.cc/"
+              },
+              {
+                "type": "link",
+                "title": "猪猪小宝库",
+                "icon": "https://logo.clearbit.com/www.xiaobaoku.cc",
+                "url": "https://www.xiaobaoku.cc/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1721199740481,
+            "addDate": 1725845261367,
             "title": "云盘搜索",
             "children": [
               {
@@ -458,7 +506,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1721199740482,
+            "addDate": 1725845261367,
             "title": "扩展插件",
             "children": [
               {
@@ -491,12 +539,12 @@
       },
       {
         "type": "folder",
-        "addDate": 1721199740482,
+        "addDate": 1725845261368,
         "title": "阅读学习",
         "children": [
           {
             "type": "folder",
-            "addDate": 1721199740482,
+            "addDate": 1725845261368,
             "title": "绘画参考",
             "children": [
               {
@@ -521,7 +569,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1721199740482,
+            "addDate": 1725845261368,
             "title": "搜书",
             "children": [
               {
@@ -529,12 +577,36 @@
                 "title": "搜索 - SaltyLeo 的书架",
                 "icon": "https://logo.clearbit.com/book.tstrs.me",
                 "url": "https://book.tstrs.me/search"
+              },
+              {
+                "type": "link",
+                "title": "SoBooks - 一起分享阅读的乐趣~",
+                "icon": "https://logo.clearbit.com/sobooks.cc",
+                "url": "https://sobooks.cc/"
+              },
+              {
+                "type": "link",
+                "title": "苦瓜书盘",
+                "icon": "https://logo.clearbit.com/kgbook.com",
+                "url": "https://kgbook.com/"
+              },
+              {
+                "type": "link",
+                "title": "Jiumo Search 鸠摩搜索 - 文档搜索引擎",
+                "icon": "https://logo.clearbit.com/www.jiumodiary.com",
+                "url": "https://www.jiumodiary.com/"
+              },
+              {
+                "type": "link",
+                "title": "24hBook search - Download ebooks free with AI",
+                "icon": "https://logo.clearbit.com/24hbook.store",
+                "url": "https://24hbook.store/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1721199740482,
+            "addDate": 1725845261369,
             "title": "在线阅读",
             "children": [
               {
@@ -613,7 +685,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1721199740483,
+            "addDate": 1725845261370,
             "title": "艺术",
             "children": [
               {
@@ -646,7 +718,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1721199740483,
+        "addDate": 1725845261370,
         "title": "设计资源",
         "children": [
           {
@@ -657,12 +729,12 @@
           },
           {
             "type": "folder",
-            "addDate": 1721199740483,
+            "addDate": 1725845261371,
             "title": "3Ds Max",
             "children": [
               {
                 "type": "folder",
-                "addDate": 1721199740483,
+                "addDate": 1725845261371,
                 "title": "3dsmax模型",
                 "children": [
                   {
@@ -682,12 +754,24 @@
                     "title": "青模3d模型网-原创3d模型素材库",
                     "icon": "https://logo.clearbit.com/3d.qingmo.com",
                     "url": "https://3d.qingmo.com/"
+                  },
+                  {
+                    "type": "link",
+                    "title": "建e网",
+                    "icon": "https://logo.clearbit.com/3d.justeasy.cn",
+                    "url": "https://3d.justeasy.cn/3dmodels/search.html?keyword=%E5%A4%8D%E5%8F%A4%E5%AE%A2%E5%8E%85"
+                  },
+                  {
+                    "type": "link",
+                    "title": "知末网3d模型",
+                    "icon": "https://logo.clearbit.com/3d.znzmo.com",
+                    "url": "https://3d.znzmo.com/mf3dmx.html?keyword=%E5%90%8A%E7%81%AF"
                   }
                 ]
               },
               {
                 "type": "folder",
-                "addDate": 1721199740484,
+                "addDate": 1725845261371,
                 "title": "3dsmax贴图",
                 "children": [
                   {
@@ -754,7 +838,7 @@
               },
               {
                 "type": "folder",
-                "addDate": 1721199740484,
+                "addDate": 1725845261372,
                 "title": "3dsmax插件",
                 "children": [
                   {
@@ -793,7 +877,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1721199740485,
+            "addDate": 1725845261373,
             "title": "样机",
             "children": [
               {
@@ -812,7 +896,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1721199740485,
+            "addDate": 1725845261373,
             "title": "SW",
             "children": [
               {
@@ -837,7 +921,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1721199740485,
+            "addDate": 1725845261373,
             "title": "图片图标",
             "children": [
               {
@@ -869,12 +953,18 @@
                 "title": "VectorCraftr - 免费可商用插画",
                 "icon": "https://logo.clearbit.com/vectorcraftr.com",
                 "url": "https://vectorcraftr.com/directory/notion"
+              },
+              {
+                "type": "link",
+                "title": "SVGLOGO",
+                "icon": "https://logo.clearbit.com/svglogo.top",
+                "url": "https://svglogo.top/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1722329457061,
+            "addDate": 1725845261373,
             "title": "字体",
             "children": [
               {
@@ -894,6 +984,12 @@
                 "title": "字体天下-提供各类字体的免费下载和在线预览服务",
                 "icon": "https://logo.clearbit.com/www.fonts.net.cn",
                 "url": "https://www.fonts.net.cn/"
+              },
+              {
+                "type": "link",
+                "title": "Free Font - 收录商用免费字体(汉字英文字体)",
+                "icon": "https://logo.clearbit.com/font.ittools.cc",
+                "url": "https://font.ittools.cc/"
               }
             ]
           }
@@ -901,12 +997,12 @@
       },
       {
         "type": "folder",
-        "addDate": 1721199740485,
+        "addDate": 1725845261374,
         "title": "休闲娱乐",
         "children": [
           {
             "type": "folder",
-            "addDate": 1721199740485,
+            "addDate": 1725845261374,
             "title": "视频",
             "children": [
               {
@@ -920,12 +1016,36 @@
                 "title": "爱看机器人-ikanbot.com",
                 "icon": "https://logo.clearbit.com/v.ikanbot.com",
                 "url": "https://v.ikanbot.com/?ref=www.qssily.com"
+              },
+              {
+                "type": "link",
+                "title": "iptv-sources",
+                "icon": "https://logo.clearbit.com/m3u.ibert.me",
+                "url": "https://m3u.ibert.me/"
+              },
+              {
+                "type": "link",
+                "title": "IPTV Link Search",
+                "icon": "https://logo.clearbit.com/tonkiang.us",
+                "url": "http://tonkiang.us/"
+              },
+              {
+                "type": "link",
+                "title": "一个全球 EPG 电视节目表。",
+                "icon": "https://logo.clearbit.com/epg.pw",
+                "url": "https://epg.pw/test_channel_page.html"
+              },
+              {
+                "type": "link",
+                "title": "金牌影院",
+                "icon": "https://logo.clearbit.com/fjvtw.com",
+                "url": "https://fjvtw.com/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1721199740485,
+            "addDate": 1725845261374,
             "title": "音频",
             "children": [
               {
@@ -957,12 +1077,36 @@
                 "title": "免费的 AI 音乐生成平台",
                 "icon": "https://logo.clearbit.com/iui.su",
                 "url": "https://iui.su/3676/"
+              },
+              {
+                "type": "link",
+                "title": "猫看白噪音",
+                "icon": "https://logo.clearbit.com/www.maokan.cc",
+                "url": "https://www.maokan.cc/"
+              },
+              {
+                "type": "link",
+                "title": "MyFreeMP3",
+                "icon": "https://logo.clearbit.com/tools.liumingye.cn",
+                "url": "https://tools.liumingye.cn/music/#/"
+              },
+              {
+                "type": "link",
+                "title": "MusicEnc-Search MP3 song lyrics！",
+                "icon": "https://logo.clearbit.com/www.musicenc.com",
+                "url": "https://www.musicenc.com/"
+              },
+              {
+                "type": "link",
+                "title": "freemp3cn",
+                "icon": "https://logo.clearbit.com/freemp3cn.com",
+                "url": "https://freemp3cn.com/#/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1721199740486,
+            "addDate": 1725845261375,
             "title": "奇趣网站",
             "children": [
               {
@@ -1021,15 +1165,21 @@
               },
               {
                 "type": "link",
-                "title": "全景故宫",
-                "icon": "https://logo.clearbit.com/pano.dpm.org.cn",
-                "url": "https://pano.dpm.org.cn/#/"
-              },
-              {
-                "type": "link",
                 "title": "卫星地图-Google Earth高清卫星地图-谷歌地图-地球在线-在线探索地球之美",
                 "icon": "https://logo.clearbit.com/huawei.com.tw",
                 "url": "https://huawei.com.tw/earth/"
+              },
+              {
+                "type": "link",
+                "title": "CAT BOUNCE!",
+                "icon": "https://logo.clearbit.com/cat-bounce.com",
+                "url": "https://cat-bounce.com/"
+              },
+              {
+                "type": "link",
+                "title": "全景故宫",
+                "icon": "https://logo.clearbit.com/pano.dpm.org.cn",
+                "url": "https://pano.dpm.org.cn/#/panorama?panorama_id=20&scene_id=2&scene_name=scene_2_summer"
               }
             ]
           }
@@ -1037,7 +1187,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1721199740486,
+        "addDate": 1725845261376,
         "title": "智能助手",
         "children": [
           {
