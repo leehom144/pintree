@@ -6,12 +6,12 @@
     "children": [
       {
         "type": "folder",
-        "addDate": 1727332225872,
+        "addDate": 1729821675068,
         "title": "线上工具",
         "children": [
           {
             "type": "folder",
-            "addDate": 1727332225873,
+            "addDate": 1729821675068,
             "title": "图片工具",
             "children": [
               {
@@ -139,12 +139,18 @@
                 "title": "图片识色,在线识别图片中的颜色",
                 "icon": "https://logo.clearbit.com/www.wenziyun.cn",
                 "url": "https://www.wenziyun.cn/yanse/tupianshise"
+              },
+              {
+                "type": "link",
+                "title": "浏览器中快速将图片变清晰",
+                "icon": "https://logo.clearbit.com/iui.su",
+                "url": "https://iui.su/190/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1727332225875,
+            "addDate": 1729821675070,
             "title": "其他工具",
             "children": [
               {
@@ -230,12 +236,24 @@
                 "title": "Azure TTS Web",
                 "icon": "https://logo.clearbit.com/tts.femoon.top",
                 "url": "https://tts.femoon.top/cn"
+              },
+              {
+                "type": "link",
+                "title": "Temp.now 临时邮箱",
+                "icon": "https://logo.clearbit.com/temp.now",
+                "url": "https://temp.now/zh/"
+              },
+              {
+                "type": "link",
+                "title": "文字转语音",
+                "icon": "https://logo.clearbit.com/d1tools.com",
+                "url": "https://d1tools.com/tools/ai-tts/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1727332225876,
+            "addDate": 1729821675071,
             "title": "多端同步",
             "children": [
               {
@@ -284,7 +302,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1727332225877,
+            "addDate": 1729821675071,
             "title": "下载工具",
             "children": [
               {
@@ -316,12 +334,18 @@
                 "title": "小红书去水印图片视频下载",
                 "icon": "https://logo.clearbit.com/www.xhs-download.online",
                 "url": "https://www.xhs-download.online/"
+              },
+              {
+                "type": "link",
+                "title": "Twitter推特视频/图片下载",
+                "icon": "https://logo.clearbit.com/dlpanda.com",
+                "url": "https://dlpanda.com/zh-CN/t"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1727332225877,
+            "addDate": 1729821675072,
             "title": "机场",
             "children": [
               {
@@ -364,7 +388,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1727332225878,
+            "addDate": 1729821675072,
             "title": "办公工具",
             "children": [
               {
@@ -384,6 +408,12 @@
                 "title": "富婆图表",
                 "icon": "https://logo.clearbit.com/www.richcharts.com",
                 "url": "https://www.richcharts.com/"
+              },
+              {
+                "type": "link",
+                "title": "PPTist - 在线演示文稿",
+                "icon": "https://logo.clearbit.com/pipipi-pikachu.github.io",
+                "url": "https://pipipi-pikachu.github.io/PPTist/"
               }
             ]
           }
@@ -391,12 +421,12 @@
       },
       {
         "type": "folder",
-        "addDate": 1727332225878,
+        "addDate": 1729821675072,
         "title": "聚合导航",
         "children": [
           {
             "type": "folder",
-            "addDate": 1727332225878,
+            "addDate": 1729821675072,
             "title": "好软收集",
             "children": [
               {
@@ -446,12 +476,30 @@
                 "title": "ZYPlayer 开源影视播放器",
                 "icon": "https://logo.clearbit.com/iui.su",
                 "url": "https://iui.su/3384/"
+              },
+              {
+                "type": "link",
+                "title": "AsrTools 智能语音转文字工具",
+                "icon": "https://logo.clearbit.com/www.fy6b.com",
+                "url": "https://www.fy6b.com/asrtools.html"
+              },
+              {
+                "type": "link",
+                "title": "贴贴",
+                "icon": "https://logo.clearbit.com/tietieapp.com",
+                "url": "https://tietieapp.com/"
+              },
+              {
+                "type": "link",
+                "title": "Wereadscan - 微信读书爬虫",
+                "icon": "https://logo.clearbit.com/algebra-fun.github.io",
+                "url": "https://algebra-fun.github.io/WeReadScan/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1727332225879,
+            "addDate": 1729821675073,
             "title": "资源检索",
             "children": [
               {
@@ -477,12 +525,18 @@
                 "title": "source",
                 "icon": "https://logo.clearbit.com/source.zgqinc.gq",
                 "url": "https://source.zgqinc.gq/"
+              },
+              {
+                "type": "link",
+                "title": "资源搜索引擎 - 不死鸟",
+                "icon": "https://logo.clearbit.com/iui.su",
+                "url": "https://iui.su/3700/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1727332225879,
+            "addDate": 1729821675073,
             "title": "云盘搜索",
             "children": [
               {
@@ -508,12 +562,18 @@
                 "title": "小兔搜搜",
                 "icon": "https://logo.clearbit.com/xiaotusoso.com",
                 "url": "https://xiaotusoso.com/"
+              },
+              {
+                "type": "link",
+                "title": "搜搜盘-网盘搜索-网盘资源搜索引擎",
+                "icon": "https://logo.clearbit.com/sousou.pro",
+                "url": "https://sousou.pro/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1727332225880,
+            "addDate": 1729821675073,
             "title": "扩展插件",
             "children": [
               {
@@ -552,12 +612,12 @@
       },
       {
         "type": "folder",
-        "addDate": 1727332225880,
+        "addDate": 1729821675074,
         "title": "阅读学习",
         "children": [
           {
             "type": "folder",
-            "addDate": 1727332225880,
+            "addDate": 1729821675074,
             "title": "绘画参考",
             "children": [
               {
@@ -582,7 +642,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1727332225880,
+            "addDate": 1729821675074,
             "title": "搜书",
             "children": [
               {
@@ -619,7 +679,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1727332225881,
+            "addDate": 1729821675074,
             "title": "在线阅读",
             "children": [
               {
@@ -698,7 +758,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1727332225882,
+            "addDate": 1729821675075,
             "title": "艺术",
             "children": [
               {
@@ -731,7 +791,7 @@
       },
       {
         "type": "folder",
-        "addDate": 1727332225882,
+        "addDate": 1729821675075,
         "title": "设计资源",
         "children": [
           {
@@ -742,12 +802,12 @@
           },
           {
             "type": "folder",
-            "addDate": 1727332225882,
+            "addDate": 1729821675075,
             "title": "3Ds Max",
             "children": [
               {
                 "type": "folder",
-                "addDate": 1727332225882,
+                "addDate": 1729821675075,
                 "title": "3dsmax模型",
                 "children": [
                   {
@@ -784,7 +844,7 @@
               },
               {
                 "type": "folder",
-                "addDate": 1727332225882,
+                "addDate": 1729821675076,
                 "title": "3dsmax贴图",
                 "children": [
                   {
@@ -851,7 +911,7 @@
               },
               {
                 "type": "folder",
-                "addDate": 1727332225883,
+                "addDate": 1729821675078,
                 "title": "3dsmax插件",
                 "children": [
                   {
@@ -890,7 +950,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1727332225883,
+            "addDate": 1729821675078,
             "title": "样机",
             "children": [
               {
@@ -909,7 +969,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1727332225883,
+            "addDate": 1729821675078,
             "title": "SW",
             "children": [
               {
@@ -934,7 +994,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1727332225884,
+            "addDate": 1729821675079,
             "title": "图片图标",
             "children": [
               {
@@ -977,7 +1037,7 @@
           },
           {
             "type": "folder",
-            "addDate": 1727332225884,
+            "addDate": 1729821675079,
             "title": "字体",
             "children": [
               {
@@ -1010,12 +1070,12 @@
       },
       {
         "type": "folder",
-        "addDate": 1727332225884,
+        "addDate": 1729821675080,
         "title": "休闲娱乐",
         "children": [
           {
             "type": "folder",
-            "addDate": 1727332225884,
+            "addDate": 1729821675080,
             "title": "视频",
             "children": [
               {
@@ -1059,12 +1119,24 @@
                 "title": "Kimivod | 電視劇 電影 動漫 綜藝 線上看",
                 "icon": "https://logo.clearbit.com/kimivod.com",
                 "url": "https://kimivod.com/"
+              },
+              {
+                "type": "link",
+                "title": "简单TV",
+                "icon": "https://logo.clearbit.com/jiandantv.com",
+                "url": "https://jiandantv.com/"
+              },
+              {
+                "type": "link",
+                "title": "m3u8在线播放器 - M3U8 Player",
+                "icon": "https://logo.clearbit.com/m3u8player.org",
+                "url": "https://m3u8player.org/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1727332225885,
+            "addDate": 1729821675081,
             "title": "音频",
             "children": [
               {
@@ -1120,12 +1192,18 @@
                 "title": "freemp3cn",
                 "icon": "https://logo.clearbit.com/freemp3cn.com",
                 "url": "https://freemp3cn.com/#/"
+              },
+              {
+                "type": "link",
+                "title": "SoundGator-免费无版权音效网站",
+                "icon": "https://logo.clearbit.com/www.soundgator.com",
+                "url": "https://www.soundgator.com/"
               }
             ]
           },
           {
             "type": "folder",
-            "addDate": 1727332225886,
+            "addDate": 1729821675082,
             "title": "奇趣网站",
             "children": [
               {
@@ -1213,6 +1291,73 @@
                 "url": "https://www.mecabricks.com/en/workshop"
               }
             ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1729821675083,
+        "title": "AI工具",
+        "children": [
+          {
+            "type": "link",
+            "title": "图钉AI导航网",
+            "icon": "https://logo.clearbit.com/www.tudingai.com",
+            "url": "https://www.tudingai.com/"
+          },
+          {
+            "type": "link",
+            "title": "图钉A提示词大全",
+            "icon": "https://logo.clearbit.com/www.gpttsc.top",
+            "url": "https://www.gpttsc.top/?ref=www.tudingai.com"
+          },
+          {
+            "type": "link",
+            "title": "Civitai",
+            "icon": "https://logo.clearbit.com/civitai.com",
+            "url": "https://civitai.com/"
+          },
+          {
+            "type": "link",
+            "title": "Discord | 玩耍聊天的地方",
+            "icon": "https://logo.clearbit.com/discord.com",
+            "url": "https://discord.com/"
+          },
+          {
+            "type": "link",
+            "title": "MJ图像提示词编辑器",
+            "icon": "https://logo.clearbit.com/www.imiprompt.com",
+            "url": "https://www.imiprompt.com/builder"
+          },
+          {
+            "type": "link",
+            "title": "图像提示词提取",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/spaces/pharmapsychotic/CLIP-Interrogator"
+          },
+          {
+            "type": "link",
+            "title": "通义",
+            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+            "url": "https://tongyi.aliyun.com/qianwen/"
+          },
+          {
+            "type": "link",
+            "title": "Image to Prompt",
+            "icon": "https://logo.clearbit.com/cococlip.ai",
+            "url": "https://cococlip.ai/features/image-to-prompt"
+          },
+          {
+            "type": "link",
+            "title": "Joy Caption Pre Alpha - 提示词反推",
+            "icon": "https://logo.clearbit.com/huggingface.co",
+            "url": "https://huggingface.co/spaces/fancyfeast/joy-caption-pre-alpha"
+          },
+          {
+            "type": "link",
+            "title": "TDChat人工智能助手",
+            "icon": "https://logo.clearbit.com/5d6x.g.c2o.lat",
+            "url": "http://5d6x.g.c2o.lat/"
           }
         ]
       }
